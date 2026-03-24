@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome to my Blog",
+    "content": "This is a Next.js CRUD application using Server Actions.",
+    "createdAt": "2026-03-24T12:00:00.000Z"
+  }
+]
